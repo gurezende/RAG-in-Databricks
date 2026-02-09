@@ -2,6 +2,11 @@
 
 This project demonstrates how to build a Retrieval-Augmented Generation (RAG) system entirely within the Databricks ecosystem. By using native Databricks Vector Search, you can eliminate the need for external vector databases like Pinecone or ChromaDB and manage your entire data-to-embedding pipeline in one place.
 
+## Project Detailed Description
+
+Post in Medium.<br>
+[From Zero to RAG: A 6-Step Guide to Native Embeddings in Databricks](https://gustavorsantos.medium.com/from-zero-to-rag-a-6-step-guide-to-native-embeddings-in-databricks-4a1f1f4c14d4?sk=7fe61c690bf08f6ead8f63be2e00de5c)
+
 ## Features
 
 * One-Stop-Shop: Leverages Databricks native infrastructure for catalogs, schemas, and vector indexes.
